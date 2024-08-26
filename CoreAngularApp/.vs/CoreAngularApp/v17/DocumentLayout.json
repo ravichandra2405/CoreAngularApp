@@ -1,0 +1,81 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Source\\CoreAngularApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E8CA829-E585-42F7-9F16-870887BF9F83}|CoreAngularApp\\CoreAngularApp.csproj|d:\\source\\coreangularapp\\coreangularapp\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E8CA829-E585-42F7-9F16-870887BF9F83}|CoreAngularApp\\CoreAngularApp.csproj|solutionrelative:coreangularapp\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E8CA829-E585-42F7-9F16-870887BF9F83}|CoreAngularApp\\CoreAngularApp.csproj|d:\\source\\coreangularapp\\coreangularapp\\models\\dto\\addcontactrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E8CA829-E585-42F7-9F16-870887BF9F83}|CoreAngularApp\\CoreAngularApp.csproj|solutionrelative:coreangularapp\\models\\dto\\addcontactrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E8CA829-E585-42F7-9F16-870887BF9F83}|CoreAngularApp\\CoreAngularApp.csproj|d:\\source\\coreangularapp\\coreangularapp\\models\\domain\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E8CA829-E585-42F7-9F16-870887BF9F83}|CoreAngularApp\\CoreAngularApp.csproj|solutionrelative:coreangularapp\\models\\domain\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "D:\\Source\\CoreAngularApp\\CoreAngularApp\\Models\\Domain\\Contact.cs",
+              "RelativeDocumentMoniker": "CoreAngularApp\\Models\\Domain\\Contact.cs",
+              "ToolTip": "D:\\Source\\CoreAngularApp\\CoreAngularApp\\Models\\Domain\\Contact.cs",
+              "RelativeToolTip": "CoreAngularApp\\Models\\Domain\\Contact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T00:50:57.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddContactRequest.cs",
+              "DocumentMoniker": "D:\\Source\\CoreAngularApp\\CoreAngularApp\\Models\\DTO\\AddContactRequest.cs",
+              "RelativeDocumentMoniker": "CoreAngularApp\\Models\\DTO\\AddContactRequest.cs",
+              "ToolTip": "D:\\Source\\CoreAngularApp\\CoreAngularApp\\Models\\DTO\\AddContactRequest.cs",
+              "RelativeToolTip": "CoreAngularApp\\Models\\DTO\\AddContactRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T00:50:36.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContactsController.cs",
+              "DocumentMoniker": "D:\\Source\\CoreAngularApp\\CoreAngularApp\\Controllers\\ContactsController.cs",
+              "RelativeDocumentMoniker": "CoreAngularApp\\Controllers\\ContactsController.cs",
+              "ToolTip": "D:\\Source\\CoreAngularApp\\CoreAngularApp\\Controllers\\ContactsController.cs",
+              "RelativeToolTip": "CoreAngularApp\\Controllers\\ContactsController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T00:39:41.789Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
